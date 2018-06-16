@@ -1,7 +1,6 @@
 # yin_yang
 Exploring canvas and trigonometry
 
-```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -74,4 +73,3 @@ Exploring canvas and trigonometry
 
 </body>
 </html>
-```
